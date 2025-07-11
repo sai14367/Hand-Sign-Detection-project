@@ -36,7 +36,7 @@ VS Code – for development
 ## 🔧 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/hand-sign-detection.git
+git clone https://github.com/sai14367/hand-sign-detection.git
 cd hand-sign-detection
 Create and activate virtual environment:
 
